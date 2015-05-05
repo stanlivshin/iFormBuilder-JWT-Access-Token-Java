@@ -58,4 +58,4 @@ Most of the JWT processing has been written by Nimbus JOSE + JWT <http://connect
 
 ## License
 
-Free for private use, donations accepted for commercial use contact author for more info.
+Free for private use, donations accepted for commercial use contact [author](#author) for more info.
