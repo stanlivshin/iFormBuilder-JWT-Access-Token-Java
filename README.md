@@ -54,7 +54,7 @@ Most of the JWT processing has been written by Nimbus JOSE + JWT <http://connect
 
 ## Author
 
-[Stan Livshin](stanlivshin.com)
+[Stan Livshin](http://www.stanlivshin.com)
 
 ## License
 
